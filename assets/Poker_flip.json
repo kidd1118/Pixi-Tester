@@ -1,0 +1,156 @@
+{"frames": {
+
+"Poker_flip_Blue/Card_flip_Blue01":
+{
+	"frame": {"x":300,"y":3,"w":135,"h":176},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":25,"w":135,"h":176},
+	"sourceSize": {"w":184,"h":225},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Poker_flip_Blue/Card_flip_Blue02":
+{
+	"frame": {"x":75,"y":3,"w":120,"h":192},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":13,"w":120,"h":192},
+	"sourceSize": {"w":184,"h":225},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Poker_flip_Blue/Card_flip_Blue03":
+{
+	"frame": {"x":35,"y":231,"w":88,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":5,"w":88,"h":208},
+	"sourceSize": {"w":184,"h":225},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Poker_flip_Blue/Card_flip_Blue04":
+{
+	"frame": {"x":3,"y":3,"w":66,"h":222},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":82,"y":0,"w":66,"h":222},
+	"sourceSize": {"w":184,"h":225},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Poker_flip_Blue/Card_flip_Blue05":
+{
+	"frame": {"x":3,"y":231,"w":26,"h":210},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":106,"y":4,"w":26,"h":210},
+	"sourceSize": {"w":184,"h":225},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Poker_flip_Blue/Card_flip_Blue06":
+{
+	"frame": {"x":3,"y":447,"w":44,"h":200},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":103,"y":9,"w":44,"h":200},
+	"sourceSize": {"w":184,"h":225},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Poker_flip_Blue/Card_flip_Blue07":
+{
+	"frame": {"x":129,"y":201,"w":76,"h":190},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":14,"w":76,"h":190},
+	"sourceSize": {"w":184,"h":225},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Poker_flip_Blue/Card_flip_Blue08":
+{
+	"frame": {"x":201,"y":3,"w":93,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":18,"w":93,"h":183},
+	"sourceSize": {"w":184,"h":225},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Poker_flip_Red/Card_flip_Red01":
+{
+	"frame": {"x":300,"y":3,"w":135,"h":176},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":25,"w":135,"h":176},
+	"sourceSize": {"w":184,"h":225},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Poker_flip_Red/Card_flip_Red02":
+{
+	"frame": {"x":75,"y":3,"w":120,"h":192},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":13,"w":120,"h":192},
+	"sourceSize": {"w":184,"h":225},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Poker_flip_Red/Card_flip_Red03":
+{
+	"frame": {"x":35,"y":231,"w":88,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":5,"w":88,"h":208},
+	"sourceSize": {"w":184,"h":225},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Poker_flip_Red/Card_flip_Red04":
+{
+	"frame": {"x":3,"y":3,"w":66,"h":222},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":82,"y":0,"w":66,"h":222},
+	"sourceSize": {"w":184,"h":225},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Poker_flip_Red/Card_flip_Red05":
+{
+	"frame": {"x":3,"y":231,"w":26,"h":210},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":106,"y":4,"w":26,"h":210},
+	"sourceSize": {"w":184,"h":225},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Poker_flip_Red/Card_flip_Red06":
+{
+	"frame": {"x":3,"y":447,"w":44,"h":200},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":103,"y":9,"w":44,"h":200},
+	"sourceSize": {"w":184,"h":225},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Poker_flip_Red/Card_flip_Red07":
+{
+	"frame": {"x":129,"y":201,"w":76,"h":190},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":14,"w":76,"h":190},
+	"sourceSize": {"w":184,"h":225},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Poker_flip_Red/Card_flip_Red08":
+{
+	"frame": {"x":201,"y":3,"w":93,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":18,"w":93,"h":183},
+	"sourceSize": {"w":184,"h":225},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Poker_flip.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b9e96cb6a974f630892bcac8d1624b6c:37e50ea488a0f207bf0d4973fb8d339e:519748c1d7809cfe08e6252bdfbb380c$"
+}
+}
